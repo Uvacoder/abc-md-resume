@@ -51,7 +51,7 @@
     "tailwindcss": "^2.2.15",
     "unified": "^10.1.0",
     "unist-util-find": "^1.0.2",
-    "vfile": "^5.1.0",
+    "vfile": "^5.3.6",
     "yaml": "^1.10.2"
   }
 }
